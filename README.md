@@ -34,7 +34,7 @@ A fully functional BitTorrent client built from scratch using **Node.js** to imp
 
 Clone the repository:
 ```sh
-git clone <repository-url>
+git clone https://github.com/AVM25/Torrent-Client.git
 cd bittorrent-client
 ```
 
